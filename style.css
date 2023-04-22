@@ -1,0 +1,62 @@
+*, *:after, *:before {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(114, 99, 128);
+    
+}
+
+.container {
+margin: 10%;
+padding: 5%;
+border: 2px solid rgb(52, 44, 59);
+background-color: rgb(158, 140, 175);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(36, 31, 41);
+    font-size:xx-large;
+}
+
+.line {
+    border: 0.1px solid rgb(52, 44, 59);
+    width: 100%;
+    margin-bottom: 7px;
+    margin-top: 25px;
+}
+ol {
+    padding-inline-start: none;
+}
+
+li {
+    color: rgb(36, 31, 41);
+    font-size: larger;
+    font-weight: 600;
+}
+
+.career {
+    color: antiquewhite;
+    margin-top: 0%;
+}
+
+a {
+    color:  rgb(36, 31, 41);
+    font-weight: bold;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(36, 31, 41);
+    font-size:xx-large;
+}
+
+.list-item {
+    display: inline-block;
+    padding-right: 10px;
+    color: rgb(36, 31, 41);
+    font-size: larger;
+    font-weight: bold;
+    margin: 0 1px 0 0;
+}
